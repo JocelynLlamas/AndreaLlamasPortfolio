@@ -1,1 +1,1 @@
-# 🎨 [Designer Name]'s Portfolio
+#[Designer Name]'s Portfolio
