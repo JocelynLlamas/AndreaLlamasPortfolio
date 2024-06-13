@@ -1,6 +1,6 @@
 # 🎨 Andrea's Portfolio
 
-Welcome to the portfolio repository of Andrea! This repository contains the source code for the portfolio website showcasing the creativity and work of [Designer Name], a talented graphic designer specializing in branding, logo design, illustrations, etc..
+Welcome to the portfolio repository of Andrea! This repository contains the source code for the portfolio website showcasing the creativity and work of Andrea Llamas, a talented graphic designer specializing in branding, logo design, illustrations, etc..
 
 https://jocelynllamas.github.io/AndreaLlamasPortfolio/index.html
 
@@ -21,7 +21,7 @@ https://jocelynllamas.github.io/AndreaLlamasPortfolio/index.html
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](path/to/screenshot1.jpg)
+![Home Page](images/ss/home.png)
 
 ### Project Gallery
 ![Project Gallery](path/to/screenshot2.jpg)
